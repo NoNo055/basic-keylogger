@@ -8,7 +8,7 @@ No data is ever sent externally. No obfuscation or stealth techniques are used.
 - Logs keystrokes to a file `log.txt`.
 - Stops when `ESC` is pressed.
 - Written using the `pynput` library.
-
+- Run server.py and then key.py (you could edit the server😉)
 ## 🛡 Disclaimer
 The author is not responsible for any misuse.  
 Only run this on your own system with permission.
